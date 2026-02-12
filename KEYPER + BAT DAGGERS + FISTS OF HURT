@@ -9,6 +9,7 @@ local weaponsToClone = {
     {sourceFolder = {"Assets", "ViewModels", "Bundles", "Keyper"}, name = "Sniper", oldName = "Sniper"},
     {sourceFolder = {"Assets", "ViewModels", "Spooky Skin Case", "Bat Daggers"}, name = "Daggers", oldName = "Daggers"},
     {sourceFolder = {"Assets", "ViewModels", "Skin Case 3", "Fists of Hurt"}, name = "Fists", oldName = "Fists"},
+    {sourceFolder = {"Assets", "ViewModels", "Bundles", "Crystal Katana"}, name = "Katana", oldName = "Katana"},
 }
 
 local weaponsFolder = player
